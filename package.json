@@ -1,0 +1,38 @@
+{
+  "name": "react-native-wechat",
+  "version": "0.0.0",
+  "description": "react-native library for wechat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pantao/react-native-wechat.git"
+  },
+  "keywords": [
+    "wechat",
+    "react",
+    "react-native",
+    "react-component",
+    "ios"
+  ],
+  "dependencies": {
+    "events": "^3.0.0"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.40"
+  },
+  "author": "pantao <54778899@qq.com>",
+  "contributors": [
+    {
+      "name": "pantao",
+      "email": "54778899@qq.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pantao/react-native-wechat/issues"
+  },
+  "homepage": "https://github.com/pantao/react-native-wechat#readme"
+}
